@@ -2,7 +2,7 @@
 
 Projeto de minha autoria arquitetado e desenvolvido na matéria de Trabalho Interdiscpilinar Dirigido na Faculdade.
 
-Para solucionar problemas residenciais por meio da automação com o Arduino UNO, usando programação em linguagem C#. 
+Para solucionar problemas residenciais por meio da automação com o Arduino UNO, usando programação em linguagem C++. 
 
 **PROBLEMA:**
 Uso excessivo e ineficiente de energia elétrica em iluminações.
